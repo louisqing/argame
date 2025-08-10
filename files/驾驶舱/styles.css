@@ -790,3 +790,39 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u2185_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:473px;
+  height:126px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2185 {
+  border-width:0px;
+  position:absolute;
+  left:537px;
+  top:303px;
+  width:473px;
+  height:126px;
+  display:flex;
+}
+#u2185 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2185_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
