@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="105px" height="27px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip44">
-      <path d="M 364.48095703125 1999  L 404.51904296875 1999  L 404.51904296875 2018  L 364.48095703125 2018  Z M 331 1994  L 436 1994  L 436 2021  L 331 2021  Z " fill-rule="evenodd" />
+    <mask fill="white" id="clip43">
+      <path d="M 127.194091796875 1999  L 157.805908203125 1999  L 157.805908203125 2018  L 127.194091796875 2018  Z M 89 1994  L 194 1994  L 194 2021  L 89 2021  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -331 -1994 )">
-    <path d="M 331.5 1994.5  L 435.5 1994.5  L 435.5 2020.5  L 331.5 2020.5  L 331.5 1994.5  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" />
-    <path d="M 331.5 1994.5  L 435.5 1994.5  L 435.5 2020.5  L 331.5 2020.5  L 331.5 1994.5  Z " stroke-width="1" stroke="#797979" fill="none" />
-    <path d="M 332.883180702272 1994.4842464663  L 434.116819297728 2020.5157535337  M 434.116819297728 1994.4842464663  L 332.883180702272 2020.5157535337  " stroke-width="1" stroke="#797979" fill="none" mask="url(#clip44)" />
+  <g transform="matrix(1 0 0 1 -89 -1994 )">
+    <path d="M 89.5 1994.5  L 193.5 1994.5  L 193.5 2020.5  L 89.5 2020.5  L 89.5 1994.5  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" />
+    <path d="M 89.5 1994.5  L 193.5 1994.5  L 193.5 2020.5  L 89.5 2020.5  L 89.5 1994.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+    <path d="M 90.8831807022717 1994.4842464663  L 192.116819297728 2020.5157535337  M 192.116819297728 1994.4842464663  L 90.8831807022717 2020.5157535337  " stroke-width="1" stroke="#797979" fill="none" mask="url(#clip43)" />
   </g>
 </svg>
